@@ -13,7 +13,7 @@ The Radio Web Logger hopes to make the process for updating self-reported hourly
 
 ## Features
 Ideation in progress. Currently, some planned features include:
-- [ ] Uploading logs as CSV files with the same format as the [CFRC Radio](https://cfrc.ca) logs: START_TIME,	END_TIME,	ARTIST,	SONG_TITLE,	CATEGORY,	CATALOGUE_#,	NEW,	INST,	CAN,	HIT,	INDG,	EMRG
+- [ ] Ability to upload logs as CSV files with the same format as the [CFRC Radio](https://cfrc.ca) logs: START_TIME,	END_TIME,	ARTIST,	SONG_TITLE,	CATEGORY,	CATALOGUE_#,	NEW,	INST,	CAN,	HIT,	INDG,	EMRG
 - [ ] Ability to log audio segments from timestamps on waveforms, audio pulled from a provided mp3 weblink.
 - [ ] \(Optionally) Ability to log audio segments from waveform timestamps, audio temporarily uploaded to a server from user's computer.
 - [ ] Ability to link to songs on a streaming service like YouTube or Spotify using these platforms' web APIs, similar to how the [BBC Sounds](https://www.bbc.co.uk/sounds) does.
