@@ -16,8 +16,8 @@ Ideation in progress. Currently, some planned features include:
 - [ ] Ability to upload logs as CSV files with the same format as the [CFRC Radio](https://cfrc.ca) logs: START_TIME,	END_TIME,	ARTIST,	SONG_TITLE,	CATEGORY,	CATALOGUE_#,	NEW,	INST,	CAN,	HIT,	INDG,	EMRG
 - [ ] Ability to log audio segments from timestamps on waveforms, audio pulled from a provided mp3 weblink.
 - [ ] \(Optionally) Ability to log audio segments from waveform timestamps, audio temporarily uploaded to a server from user's computer.
-- [ ] Ability to link to songs on a streaming service like YouTube or Spotify using these platforms' web APIs, similar to how the [BBC Sounds](https://www.bbc.co.uk/sounds) does.
-- [ ] For logs completed via mp3 weblink, option to play audio back with a pop up informing you what song is being played	(again, a feature similar to Sounds). Users are able to click on the song title pop up to open the song on an external streaming platform.
+- [ ] Ability to link to songs on a streaming service like YouTube or Spotify using those platforms' web APIs, similar to how [BBC Sounds](https://www.bbc.co.uk/sounds) does.
+- [ ] For logs completed via mp3 weblink, option to play audio back with a pop up informing you what song is being played (again, a feature similar to Sounds). Users are able to click on the song title pop up to open the song on an external streaming platform.
 - [ ] \(Optional additional feature) Ability to include Bandcamp links that pop up under an artist name, which can similarly be clicked on.
       
 More to come as the project grows and I get more ideas. If all goes well, I may even open it up to ideas, requests or contributions.
