@@ -26,4 +26,4 @@ More to come as the project grows and I get more ideas. If all goes well, I may 
 At the moment, this application is meant to serve staff and volunteers at Canadian radio stations, particularly campus and community stations, whose logging requirements I am most familiar with. Extensions in the future could include interfaces for the other kinds of broadcasters.
 What I would be more interested in adding further down the line, is the ability for radio station websites to offer their _listeners_ the ability to see this synced up artist and song information while they listen back to a show in program archives.
 
-Site [here](https://aa4mat.github.io/radio-web-logger/). Work in progress.
+Site [here](https://aa4mat.github.io/radio-web-logger/). Work very much in progress.
